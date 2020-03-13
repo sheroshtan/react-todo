@@ -1,0 +1,7 @@
+.item-add-form {
+    padding-top: 1rem;
+}
+.item-add-form button {
+    white-space: nowrap;
+    margin-left: 5px;
+}
